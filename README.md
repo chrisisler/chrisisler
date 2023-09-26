@@ -1,16 +1,21 @@
-### Hi there 👋
+### Chris I.
+> /kɹɪs/
+<p>Software Developer | Passionate about implementing ideas into reality.</p>
 
-<!--
-**chrisisler/chrisisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[chrisisler](https://chrisisler.vercel.app) - My personal site
 
-Here are some ideas to get you started:
+### Tech stack I thoroughly enjoy 💖
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Material UI](https://https://mui.com/material-ui/)
+- [Firebase](https://firebase.google.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I am interested in exploring 🔍
+- [Prisma](https://prisma.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Rust](https://rust-lang.org/)
+- [PyTorch](https://pytorch.org/)
+
+### Connect
+- [RemoteOK](https://rok.co/@wavechris)
+- 
