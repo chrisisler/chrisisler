@@ -1,4 +1,4 @@
-### Chris I.
+### Chris Isler
 > /kɹɪs/
 <p>Software Developer | Passionate about implementing ideas into reality.</p>
 
@@ -18,4 +18,3 @@
 
 ### Connect
 - [RemoteOK](https://rok.co/@wavechris)
-- 
