@@ -17,4 +17,4 @@
 - [PyTorch](https://pytorch.org/)
 
 ### Connect 💰
-- [RemoteOK](https://rok.co/@wavechris)
+[RemoteOK](https://rok.co/@wavechris)
