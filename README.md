@@ -2,8 +2,9 @@
 > /kɹɪs/
 <p>Software Developer | Passionate about implementing ideas into reality</p>
 
-[GameDuel](https://gitlab.com/4444cisler4444/gameduel) - My recent work
-[chrisisler](https://chrisisler.vercel.app) - My personal site
+[GameDuel - My latest full stack project](https://gitlab.com/4444cisler4444/gameduel)
+
+[My personal site](https://chrisisler.vercel.app)
 
 ### Tech stack I enjoy using 🛠
 - [React](https://reactjs.org/)
