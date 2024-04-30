@@ -17,3 +17,5 @@
 - [Flask](https://flask.palletsprojects.com/)
 - [PyTorch](https://pytorch.org/)
 - [Ansible](https://ansible.com)
+- [Ruby on Rails](https://github.com/rails/rails)
+- [WordPress](https://wordpress.com)
