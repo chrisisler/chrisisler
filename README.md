@@ -10,10 +10,10 @@
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Supabase](https://supabase.com)
-- [Docker](https://www.docker.com)
+- [Go](https://go.dev/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ### Tech I'm interested in exploring 🔍
 - [Flask](https://flask.palletsprojects.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Go](https://go.dev/)
 - [PyTorch](https://pytorch.org/)
+- [Ansible](https://ansible.com)
