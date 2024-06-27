@@ -14,7 +14,7 @@
 ### 📚 Tech stack I enjoy using 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Supabase](https://supabase.com)
-- [PostgreSQL](https://www.postgresql.org/)
+- [Postgres](https://www.postgresql.org/)
 - [React](https://reactjs.org/)
 - [VueJS](https://vuejs.org/)
 
