@@ -1,8 +1,7 @@
 ### Chris Isler
 > /kɹɪs/
-<p>Software Developer | Passionate about implementing ideas into reality</p>
+<p>Passionate about implementing ideas into reality</p>
 
-[My personal site.](https://chrisisler.vercel.app)
 
 ### 🛠 Passion Projects
 - [Sonido - WIP Platform for Musicians](https://gitlab.com/4444cisler4444/sonido)
@@ -15,16 +14,19 @@
 - [Traqur - Easily track your timespend](https://gitlab.com/4444cisler4444/traqur)
 
 
+[My personal site.](https://chrisisler.vercel.app)
+
 ### 📚 Tech stack I enjoy using 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Supabase](https://supabase.com)
 - [Postgres](https://www.postgresql.org/)
 - [React](https://reactjs.org/)
 - [VueJS](https://vuejs.org/)
+- [Golang](https://go.dev/)
 
 ### 🔍 Tech I'm interested in exploring 
 - [Pandas](https://pandas.pydata.org/)
 - [PyTorch](https://pytorch.org/)
 - [Ansible](https://ansible.com)
 - [Ruby on Rails](https://github.com/rails/rails)
-- [Golang](https://go.dev/)
+
