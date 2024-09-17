@@ -2,6 +2,7 @@
 > /kɹɪs/
 <p>Passionate about implementing ideas into reality</p>
 
+[My personal site.](https://chrisisler.vercel.app)
 
 ### 🛠 Passion Projects
 - [Sonido - WIP Platform for Musicians](https://gitlab.com/4444cisler4444/sonido)
@@ -13,8 +14,6 @@
 - [Chips - Utility library for FP-style JS](https://github.com/chrisisler/chips)
 - [Traqur - Easily track your timespend](https://gitlab.com/4444cisler4444/traqur)
 
-
-[My personal site.](https://chrisisler.vercel.app)
 
 ### 📚 Tech stack I enjoy using 
 - [FastAPI](https://fastapi.tiangolo.com/)
