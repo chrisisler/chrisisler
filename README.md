@@ -1,31 +1,32 @@
 ### Chris Isler
 > /kɹɪs/
-<p>Passionate about implementing ideas into reality</p>
 
-[My personal site.](https://chrisisler.vercel.app)
+<p>Implementing ideas into reality since 2014.</p>
+
+[My portfolio site.](https://chrisisler.vercel.app)
 
 ### 🛠 Passion Projects
-- [Sonido - WIP Platform for Musicians](https://gitlab.com/4444cisler4444/sonido)
-- [GameDuel - FanDuel for games](https://gitlab.com/4444cisler4444/gameduel)
-- [Vuegram - Instagram clone in Vue + Node](https://gitlab.com/4444cisler4444/vuegram)
-- [Amazoop - Amazon clone e-commerce w/ Stripe](https://gitlab.com/4444cisler4444/amazoop)
-- [Trainquil - Track your workouts](https://github.com/chrisisler/trainquil)
-- [Wavematch - Pattern matching in JS](https://github.com/chrisisler/wavematch)
-- [Chips - Utility library for FP-style JS](https://github.com/chrisisler/chips)
-- [Traqur - Easily track your timespend](https://gitlab.com/4444cisler4444/traqur)
+- [Sonido - WIP Platform for Musicians and fans](https://gitlab.com/4444cisler4444/sonido)
+- [GameDuel - eSports engagement and prop betting](https://gitlab.com/4444cisler4444/gameduel) <-- Check this one out!
+- [Trainquil - Create workout plans and track your lifts](https://github.com/chrisisler/trainquil)
+- [Chips - Functional programming library for JavaScript](https://github.com/chrisisler/chips)
+- [Vuegram - Social platform integrated with AI image gen](https://gitlab.com/4444cisler4444/vuegram)
+- [Amazoop - E-commerce site using Stripe Payments API](https://gitlab.com/4444cisler4444/amazoop)
+- [Wavematch - My algorithm for Pattern Matching in JavaScript](https://github.com/chrisisler/wavematch/tree/v1.3.0)
 
 
 ### 📚 Tech stack I enjoy using 
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Supabase](https://supabase.com)
-- [Postgres](https://www.postgresql.org/)
-- [React](https://reactjs.org/)
-- [VueJS](https://vuejs.org/)
+- [Ansible](https://www.ansible.com/)
 - [Golang](https://go.dev/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Postgres](https://www.postgresql.org/)
+- [Supabase](https://supabase.com)
+- [React](https://reactjs.org/), [Vue](https://vuejs.org/)
 
-### 🔍 Tech I'm interested in exploring 
-- [Pandas](https://pandas.pydata.org/)
+
+### 🔍 Tech I'm exploring next
+- [Kafka](https://kafka.apache.org/)
+- [Spark](https://spark.apache.org/)
+- [Clojure](https://clojure.org/)
 - [PyTorch](https://pytorch.org/)
-- [Ansible](https://ansible.com)
-- [Ruby on Rails](https://github.com/rails/rails)
-
+- [GCP Cloud Run](https://cloud.google.com/run)
