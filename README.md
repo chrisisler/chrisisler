@@ -1,9 +1,11 @@
 ### Chris Isler
 > /kɹɪs/
 
-<p>Implementing ideas into reality since 2014.</p>
+<strong>Implementing ideas into reality since 2015.</strong>
 
-[My portfolio site.](https://chrisisler.vercel.app)
+
+[Blog/recent thoughts.](https://cionwp.wordpress.com)
+
 
 ### 🛠 Passion Projects
 - [Sonido - WIP Platform for Musicians and fans](https://gitlab.com/4444cisler4444/sonido)
@@ -11,7 +13,6 @@
 - [Trainquil - Create workout plans and track your lifts](https://github.com/chrisisler/trainquil)
 - [Chips - Functional programming library for JavaScript](https://github.com/chrisisler/chips)
 - [Vuegram - Social platform integrated with AI image gen](https://gitlab.com/4444cisler4444/vuegram)
-- [Amazoop - E-commerce site using Stripe Payments API](https://gitlab.com/4444cisler4444/amazoop)
 - [Wavematch - My algorithm for Pattern Matching in JavaScript](https://github.com/chrisisler/wavematch/tree/v1.3.0)
 
 
